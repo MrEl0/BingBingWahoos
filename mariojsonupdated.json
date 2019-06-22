@@ -1,0 +1,176 @@
+[
+     {
+          "from": "http://infernoplus.com/royale/img/game/smb_map.png",
+          "to": "https://i.imgur.com/pP6XvaL.png",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/img/game/smb_obj.png",
+          "to": "https://files.catbox.moe/9ovn1w.png",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/music/main0.mp3",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/music/main0.mp3",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/music/main1.mp3",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/music/main1.mp3",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/music/main2.mp3",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/music/main2.mp3",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/music/main3.mp3",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/music/main3.mp3",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/music/gameover.mp3",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/music/gameover.mp3",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/music/castle.mp3",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/music/castle.mp3",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/music/dead.mp3",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/music/dead.mp3",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/music/star.mp3",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/music/star.mp3",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/alert.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/alert.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/break.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/break.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/breath.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/breath.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/bump.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/bump.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/coin.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/coin.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/fireball.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/fireball.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/firework.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/firework.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/flagpole.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/flagpole.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/item.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/item.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/jump0.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/jump0.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/jump1.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/jump1.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/kick.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/kick.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/life.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/life.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/pipe.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/pipe.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/powerup.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/powerup.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/stomp.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/stomp.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/vine.wav",
+          "to": "https://craftersshaft.github.io/marioroyale/classicsmb/audio/sfx/vine.wav",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/audio/sfx/stomp.wav",
+          "to": "https://i.imgur.com/8tNRyFv.png",
+          "isActive": true,
+          "isRegex": false
+     },
+     {
+          "from": "http://infernoplus.com/royale/img/home/bkga.png",
+          "to": "https://i.imgur.com/8tNRyFv.png",
+          "isActive": true,
+          "isRegex": false
+     }
+]
